@@ -4,15 +4,15 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Sleep Well</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		This app allows you to calculate what time you should sleep or the time that you should wake up, in order to have a proper REM sleep.
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://charlesdesouza.com"
+		email="charles.desouza3000@gmail.com">
+		Charles Desouza
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
